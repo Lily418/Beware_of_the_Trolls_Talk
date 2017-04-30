@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Beware of the Trolls",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "Lily418",
+    "githubRepository": "Beware_of_the_Trolls_Talk"
+  }
+}
